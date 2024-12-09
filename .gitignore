@@ -1,0 +1,15 @@
+lazy-sort
+lazy-rw
+.vscode/
+.gdbinit
+testcases/
+a.out
+test.c
+_*
+*.d
+*.o
+*_usage.txt
+env1
+results
+testcases.zip
+test.py
